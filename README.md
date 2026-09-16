@@ -50,11 +50,14 @@ Retrouvez ici mes projets, expérimentations et contributions autour des systèm
 
 #### Technologies, système & réseau
 
-| Domaine | Technologies |
-| --- | --- |
-| Infrastructure & réseau | [HPE](https://www.hpe.com/), [Proxmox](https://www.proxmox.com/), [Cisco](https://www.cisco.com/), [Ubuntu Server](https://ubuntu.com/server), [Windows Server](https://www.microsoft.com/windows-server), [Docker](https://www.docker.com/) |
-| Développement & bases de données | [MySQL](https://www.mysql.com/), [phpMyAdmin](https://www.phpmyadmin.net/), [Azure](https://azure.microsoft.com/), [Google Maps](https://developers.google.com/maps), [Raspberry Pi](https://www.raspberrypi.com/) |
-| Supervision & sécurité | [WireGuard](https://www.wireguard.com/), [Nginx](https://nginx.org/), [Netdata](https://www.netdata.cloud/), [Home Assistant](https://www.home-assistant.io/) |
+**Infrastructure & réseau**  
+[HPE](https://www.hpe.com/) · [Proxmox](https://www.proxmox.com/) · [Cisco](https://www.cisco.com/) · [Ubuntu Server](https://ubuntu.com/server) · [Windows Server](https://www.microsoft.com/windows-server) · [Docker](https://www.docker.com/)
+
+**Développement & bases de données**  
+[MySQL](https://www.mysql.com/) · [phpMyAdmin](https://www.phpmyadmin.net/) · [Azure](https://azure.microsoft.com/) · [Google Maps](https://developers.google.com/maps) · [Raspberry Pi](https://www.raspberrypi.com/)
+
+**Supervision & sécurité**  
+[WireGuard](https://www.wireguard.com/) · [Nginx](https://nginx.org/) · [Netdata](https://www.netdata.cloud/) · [Home Assistant](https://www.home-assistant.io/)
 
 #### Statistiques de contribution
 
